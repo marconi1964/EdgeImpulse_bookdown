@@ -1,0 +1,11 @@
+`r if (knitr::is_html_output()) '
+# References 參考文獻  {-}
+'`
+
+```{r, echo=FALSE}
+referencescounter <- 0
+```
+
+參考資料  
+`r referencescounter<-referencescounter+1; referencescounter`. Edge Impulse 說明文件 https://docs.edgeimpulse.com/docs/audio-classification/  
+`r referencescounter<-referencescounter+1; referencescounter`. Edge Impulse Studio https://studio.edgeimpulse.com/studio/31223/validation   

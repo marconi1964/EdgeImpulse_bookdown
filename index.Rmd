@@ -1,0 +1,18 @@
+--- 
+title: "Edge Impulse examples"
+author: "marconi1964@yahoo.com or marconi.jiang@gmail.com"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Edge Impulse examples"
+---
+
+# 前言
+
+本書紀錄 Edge Impulse 的一些實驗
+
+從認識 TinyML 與 TensorFlow Lite Micro 以來, 一直都會提到 Edge Impulse, 一直都不清楚 Edge Impulse 在 TinyML 扮演的角色, 只知道創辦人也是早期在 Google 跟 Pete Warden 一起開發  TensorFlow Lite Micro. 乾脆動手做 Edge Impulse 的實驗, 就可以知道了. 因此, 拿了 Arduino Nano 33 BLE Sense, 在 Edge Impulse 做了語音關鍵字偵測的實驗, 當作第一章.
+  

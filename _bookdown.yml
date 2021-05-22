@@ -1,0 +1,6 @@
+book_filename: "EdgeImpulse_examples_by_marconi1964"
+output_dir: "../marconi1964.github.io/EdgeImpulseExamples"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
